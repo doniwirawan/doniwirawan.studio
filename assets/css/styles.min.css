@@ -409,18 +409,15 @@ body {
 
 	#project,
 	#certificate,
-	#skill {
+	#skill,
+	#contact {
 		position: relative;
 		top: 200px !important;
 	}
 
-	#contact {
-		position: relative;
-		top: 100px !important;
-	}
 
 	#cv {
-		margin-top: 10px !important;
+		margin-top: 50px !important;
 	}
 
 	.jumbotron {
