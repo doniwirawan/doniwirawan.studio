@@ -409,10 +409,9 @@ body {
 
 	#project,
 	#certificate,
-	#skill,
-	#contact {
+	#skill {
 		position: relative;
-		/* top: 200px !important; */
+		top: 200px !important;
 	}
 
 	#cv {
