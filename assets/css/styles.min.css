@@ -308,7 +308,7 @@ body {
 
 @media (min-width: 768px) {
 	.shape {
-		display: block;
+		display: none;
 	}
 
 	.navigation-clean {
@@ -412,7 +412,7 @@ body {
 	#skill,
 	#contact {
 		position: relative;
-		top: 200px !important;
+		/* top: 200px !important; */
 	}
 
 	#cv {
