@@ -18,7 +18,7 @@ body {
 
 .features-clean {
 	color: #313437;
-	background-color: #fff;
+	background-color: none;
 	padding-bottom: 30px;
 }
 
@@ -79,7 +79,7 @@ body {
 
 .footer-basic {
 	padding: 40px 0;
-	background-color: #fff;
+	background-color: none;
 	color: #4b4c4d;
 }
 
@@ -140,7 +140,7 @@ body {
 
 .highlight-clean {
 	color: #313437;
-	background-color: #fff;
+	background-color: none;
 	padding: 0;
 }
 
@@ -191,7 +191,7 @@ body {
 .photo-gallery,
 .projects-horizontal {
 	color: #313437;
-	background-color: #fff;
+	background-color: none;
 }
 
 .photo-gallery .intro {
@@ -304,7 +304,7 @@ body {
 .navigation-clean .navbar-nav>li>.dropdown-menu {
 	margin-top: -5px;
 	box-shadow: none;
-	background-color: #fff;
+	background-color: none;
 	border-radius: 2px;
 }
 
@@ -504,7 +504,7 @@ body {
 
 .social-icons {
 	color: #313437;
-	background-color: #fff;
+	background-color: none;
 	text-align: center;
 	padding: 70px 0;
 }
@@ -593,6 +593,7 @@ body {
 .jumbotron {
 	position: relative;
 	top: 80px;
+	background-color: none !important;
 }
 
 #project,
