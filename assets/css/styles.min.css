@@ -213,7 +213,6 @@ body {
 }
 
 .navigation-clean {
-	background: #fff;
 	padding-top: 0.75rem;
 	padding-bottom: 0.75rem;
 	color: #333;
@@ -221,6 +220,9 @@ body {
 	box-shadow: none;
 	border: none;
 	margin-bottom: 0;
+	top: 1px;
+	background: inherit;
+	z-index: 999;
 }
 
 .navigation-clean .navbar-brand {

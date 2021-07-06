@@ -4677,9 +4677,9 @@ input[type=submit].btn-block {
     list-style: none
 }
 
-.navigation-clean {
+/* .navigation-clean {
     background: none !important;
-}
+} */
 
 .nav-link {
     display: block;
