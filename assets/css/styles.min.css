@@ -220,7 +220,7 @@ body {
 	box-shadow: none;
 	border: none;
 	margin-bottom: 0;
-	top: 1px;
+	top: -1px;
 	background: inherit;
 	z-index: 999;
 }
